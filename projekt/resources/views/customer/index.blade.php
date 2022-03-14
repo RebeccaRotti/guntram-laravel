@@ -8,6 +8,7 @@
     {{-- https://getbootstrap.com/docs/5.1/components/accordion/ --}}
     {{-- oder --}}
     {{-- https://getbootstrap.com/docs/5.1/components/navs-tabs/#javascript-behavior --}}
+    <div></div>
 
   </div>
 
